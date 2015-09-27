@@ -1,3 +1,8 @@
+## Quiet Fork
+
+the only difference between this Fork and the original repository is that nothing gets logged to the console when the `verbose` option is not set.
+
+
 # gulp-imagemin [![Build Status](https://travis-ci.org/sindresorhus/gulp-imagemin.svg?branch=master)](https://travis-ci.org/sindresorhus/gulp-imagemin)
 
 > Minify PNG, JPEG, GIF and SVG images with [imagemin](https://github.com/kevva/imagemin)
